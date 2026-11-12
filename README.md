@@ -1,8 +1,8 @@
 # josephw_agent_stack_public
 
-A portable collection of Codex skills generated from Joseph's private canonical agent stack.
+A portable collection of Codex skills generated from Joseph's private canonical agent skill stack.
 
-This public repository contains reusable instructions and helper scripts only. It deliberately excludes personal document identifiers, credentials, OAuth state, browser state, local databases, and private configuration. Skills that use Google Drive, Gmail, Supabase, or other connected services instruct each user to select and authorize their own resources.
+This public repository contains reusable instructions and helper scripts only. It includes instruction for quickly setup agents skills for harnesses. Skills that use Google Drive, Gmail, Supabase, or other connected services instruct each user to select and authorize their own resources.
 
 ## Install
 
