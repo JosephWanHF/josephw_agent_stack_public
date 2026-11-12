@@ -1,0 +1,3 @@
+interface:
+  display_name: "TaskNotes Capture"
+  short_description: "Create Obsidian TaskNotes tasks from chat"

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Remind Me"
+  short_description: "Schedule a project-aware task catch-up"
+  default_prompt: "Use $remind-me to bring me back to this project tomorrow."
+
+policy:
+  allow_implicit_invocation: false

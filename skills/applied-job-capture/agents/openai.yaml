@@ -1,0 +1,3 @@
+interface:
+  display_name: "Applied Job Capture"
+  short_description: "Record applied jobs from pasted links and sync the tracker"

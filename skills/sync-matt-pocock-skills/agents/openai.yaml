@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sync Matt Pocock Skills"
+  short_description: "Check and update Matt Pocock skills safely"
+  default_prompt: "Use $sync-matt-pocock-skills to check this Codex environment for the latest maintained Matt Pocock skills."

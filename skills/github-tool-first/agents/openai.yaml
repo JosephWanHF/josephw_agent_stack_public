@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Tool First"
+  short_description: "Use GitHub tools before the CLI"
+  default_prompt: "Use $github-tool-first to publish this project to GitHub."

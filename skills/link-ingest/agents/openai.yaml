@@ -1,0 +1,3 @@
+interface:
+  display_name: "Link Ingest"
+  short_description: "Archive links into Project Cogito and Saved Links"

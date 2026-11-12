@@ -1,0 +1,3 @@
+interface:
+  display_name: "Fridge Capture"
+  short_description: "Record fridge inventory in Cogito"

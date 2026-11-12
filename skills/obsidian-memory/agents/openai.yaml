@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Memory"
+  short_description: "Use the local Obsidian vault through MCP with staged approvals."
+  default_prompt: "Search my Obsidian vault for context before changing anything."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odysseus Mod Planner"
+  short_description: "Check Odysseus mod backlog before changes"
+  default_prompt: "Use $odysseus-mod-planner to plan the next Odysseus workspace modification."

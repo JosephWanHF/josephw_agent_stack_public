@@ -1,0 +1,3 @@
+interface:
+  display_name: "Diet Recipe Planner"
+  short_description: "Plan recipes from Cogito inventory"

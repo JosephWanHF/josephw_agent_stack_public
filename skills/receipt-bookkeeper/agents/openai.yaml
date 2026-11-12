@@ -1,0 +1,4 @@
+interface:
+  display_name: "Receipt Bookkeeper"
+  short_description: "Record receipts with validation and dedupe"
+  default_prompt: "Use $receipt-bookkeeper to record this receipt in my bookkeeping destination."
